@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayangit01
+- 👋 Hi, I’m Ayan Ghosh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Es6 and Angular
 - 💞️ I’m Doing Manual testing in a Company ...
