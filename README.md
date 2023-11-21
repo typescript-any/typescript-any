@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React Js**
 
-- 📫 How to reach me **ayanonlinee@gmail.com**
+- 📫 How to reach me **ayanghosh.dev@gmail.com**
 
 - ⚡ Fun fact **I am happy person😎**
 
