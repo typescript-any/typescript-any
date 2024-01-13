@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayan Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React js, Node js, MongoDb**
+- 🌱 I’m currently working with **React js, Next js, React native, Node js, MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://ayanonline.netlify.app/](https://ayanonline.netlify.app/)
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **React Js | Next Js**
 
 - 📫 How to reach me **ayanghosh.dev@gmail.com**
 
