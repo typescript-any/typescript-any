@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working with **React js, Next js, React native, Node js, MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://ayanonline.netlify.app/](https://ayanonline.netlify.app/)
-
 - 💬 Ask me about **React Js | Next Js**
 
 - 📫 How to reach me **ayanghosh.dev@gmail.com**
