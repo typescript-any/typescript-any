@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayan Ghosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently working with **React js, Next js, React native, Node js, MongoDb**
+- 🌱 I’m currently working with **React.js, Next.js, React native, Express.js Node.js, MongoDb**
 
-- 💬 Ask me about **React Js | Next Js**
+- 💬 Ask me about **React.Js | Next.Js**
 
 - 📫 How to reach me **hello@ayanghosh.in**
 
