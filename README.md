@@ -1,10 +1,8 @@
 <!-- Animated Banner and Typing Effect -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A192F,100:00C9A7&section=header&fontSize=40&fontAlign=50&fontColor=FFFFFF"/>
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=Fullstack+Developer+building+future-ready+products;AI+Service+Engineer+%7C+Clean+Code+Advocate;TypeScript+%7C+Go+%7C+React+%7C+Prompt+Engineering;Let%27s+build+the+future+together+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=00FF00&background=0A192F&height=200&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=Fullstack+Developer+building+future-ready+products;AI+Service+Engineer+%7C+Clean+Code+Advocate;TypeScript+%7C+Go+%7C+React+%7C+Prompt+Engineering;Let%27s+build+the+future+together+%F0%9F%9A%80"/>
 </p>
 
 ---
